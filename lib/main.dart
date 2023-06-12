@@ -33,14 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  /// Items List of Json array  (1st work make a Json list)
-  var MyItems = [
-    {"img":"https://i.pinimg.com/236x/de/f1/9d/def19de19ac7fc4bbb11b7bc35b89d32--beautiful-sunset-beautiful-places.jpg"},
-    {"img":"https://i.pinimg.com/236x/de/f1/9d/def19de19ac7fc4bbb11b7bc35b89d32--beautiful-sunset-beautiful-places.jpg"},
-    {"img":"https://i.pinimg.com/236x/de/f1/9d/def19de19ac7fc4bbb11b7bc35b89d32--beautiful-sunset-beautiful-places.jpg"},
-    {"img":"https://i.pinimg.com/236x/de/f1/9d/def19de19ac7fc4bbb11b7bc35b89d32--beautiful-sunset-beautiful-places.jpg"},
-    {"img":"https://i.pinimg.com/236x/de/f1/9d/def19de19ac7fc4bbb11b7bc35b89d32--beautiful-sunset-beautiful-places.jpg"},
-  ];
+
 
 
 
